@@ -1,0 +1,86 @@
+<style>
+  @import url("https://use.typekit.net/lnr4dxg.css");
+</style>
+
+
+body{
+  font-family: fira-sans, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h1{
+  font-family: 'bree', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color:#ffaa64
+}
+
+h2,h3,h4,h5,h6,strong{
+  font-family: 'bree', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+
+
+}
+
+.display-1{
+	font-weight: 700;
+	word-break: break-all;
+
+}
+
+
+
+.display-1:nth-child(1){
+   	background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(recursos/head1.jpg) no-repeat;
+  	background-size:cover;
+  	background-position: center center;
+  	-webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.display-1:nth-child(2){
+   	background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(recursos/head2.jpg) no-repeat;
+  	background-size:cover;
+  	background-position: center center;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.display-1:nth-child(3){
+   	background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(recursos/head3.jpg) no-repeat;
+  	background-size:cover;
+  	background-position: center center;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.display-1:nth-child(4){
+   	background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(recursos/head4.jpg) no-repeat;
+  	background-size:cover;
+  	background-position: center center;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+
+a#especial{
+  font-family: fira-sans, sans-serif;
+  font-weight: 400;
+	color:#ffaa64;
+}
+
+a#especial:before{
+	content:"+";
+}
+
+button.navbar-toggler{
+	border:none;
+
+}
+
+#chart_div{
+  display: inline-block;
+  margin: 0 auto;
+}

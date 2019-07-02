@@ -1,0 +1,24 @@
+{
+Dinero invertido: [
+{
+gasto: "Comida",
+Pesos: 10.000
+},
+{
+gasto: "Materiales",
+Pesos: 5.000
+},
+{
+gasto: "Impresicones",
+Pesos: 4.000
+},
+{
+gasto: "Trasporte",
+Pesos: 3.000
+},
+{
+Parque: "ocio",
+hectareas: 2.500
+}
+]
+}
